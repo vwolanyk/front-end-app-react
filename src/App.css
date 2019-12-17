@@ -17,6 +17,12 @@
   color: white;
 }
 
+textarea {
+  width: 500px;
+  height: 500px;
+  margin: 20px;
+}
+
 .App-link {
   color: #09d3ac;
 }
